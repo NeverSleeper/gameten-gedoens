@@ -32,7 +32,7 @@ const Place = () => (
               <h2>Ort & Zeit</h2>
               <div align="left">
                 <h3>Wann?</h3>
-                <p>26.06.2021<br /><br />
+                <p>16.07.2022<br /><br />
                 14:00 Uhr s.t. bis Open-End
                 <br></br>
                 s.t. steht für sine tempore = also nicht ab, sondern um! Bitte seid pünktlich :)
