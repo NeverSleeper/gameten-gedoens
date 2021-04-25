@@ -28,7 +28,29 @@ const News = () => (
             <div>
             <h2>Neuigkeiten</h2>
               <div>              
-                <h3>19.01.2020</h3>
+                <h3>25.04.2021</h3>
+                <p>                
+                  <br/>
+                  Liebe Gäste, 
+                  <br/>                
+                  wie ihr sicher schon vermutet habt hat sich die aktuelle Covid-19-Situation leider noch nicht entspannt. Wir haben deshalb beschloßen die Feier um ein ganzes Jahr zu verlegen. 
+                  Der neue Termin ist nun der:                   
+                  <br/>
+                  <br/>
+                    <center>
+                        <h3>16.07.2022</h3>
+                      </center>
+                  <br/>
+                  <br/>
+                  Wir hoffen das sich bis zu diesem Datum alles normalisiert hat und wir ohne Bedenken miteinander feiern und auch einander  wieder nah sein können. Wir halten euch selbstverständlich weiterhin über alle Neuigkeiten auf dem Laufenden und hoffen euch auch abseits der geplanten Feier schon vorher wiederzusehen.
+                  <br/>
+                  Seit herzlichst gedrückt, von euren Gametlingen Tim und André
+                </p> 
+                <br/>
+                <br/>
+              </div>
+              <div>              
+                <h3>19.01.2021</h3>
                 <p>                
                 <Art >
                   <Img fluid={data.art_together.childImageSharp.fluid} />
