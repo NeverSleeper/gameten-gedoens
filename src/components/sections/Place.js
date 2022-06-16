@@ -45,7 +45,7 @@ const Place = () => (
                 Alt-Treptow 6<br />
                 12435 Berlin<br />
 
-                 >> Siehe hier <a href="https://www.google.com/maps/place/Insel+der+Jugend/@52.4872202,13.4630464,14z/data=!3m1!4b1!4m5!3m4!1s0x47a84f1f115ef22d:0x7e1c145eb641cb36!8m2!3d52.487222!4d13.480556" target="_blank">Google Maps</a>
+                Siehe hier <a href="https://www.google.com/maps/place/Insel+der+Jugend/@52.4872202,13.4630464,14z/data=!3m1!4b1!4m5!3m4!1s0x47a84f1f115ef22d:0x7e1c145eb641cb36!8m2!3d52.487222!4d13.480556" target="_blank">Google Maps</a>
                   <br />
                   <br />
                 Parkplatz ist direkt vor Ort vorhanden
