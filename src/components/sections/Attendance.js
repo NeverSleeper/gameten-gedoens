@@ -29,7 +29,7 @@ const Attendance = () => (
               <h2>Teilnahme</h2>
               <p>
                 Wenn Du schon weißt, ob Du an unserer Feier teilnehmen kannst oder auch nicht,
-                trage bitte Deinen Vor- und Nachnamen sowie Deine Auswahl in diese <a href="https://doodle.com/poll/gmushagszfw7hmfe" target="_blank">Liste</a> ein.
+                teile uns dies bitte einfach persönlich mit (WhatsApp, Signal, SMS, Brieftaube, Buschfunk). ;)
               </p>
             </div>
             <Art>
