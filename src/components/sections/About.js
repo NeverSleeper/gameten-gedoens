@@ -31,7 +31,7 @@ const About = () => (
             <div>
               <h2>Es findet statt - am 16.07.2022!</h2>
               <p>
-                In nicht mal einem Monat geht es los. Wir werden uns bei allen Beteiligten über die üblichen Kommunikationskanäle melden und bitten um eine zeitnah um eine verbindliche Rückmeldung!                
+                In nicht mal einem Monat geht es los. Wir werden uns bei allen Beteiligten über die üblichen Kommunikationskanäle melden und bitten um eine zeitnah und eine verbindliche Rückmeldung!                
               </p>
               <p>
                 Wir benötigen übrigens noch fleißige Kuchen-/Tortenbäcker*innen! Bitte gebt uns Bescheid ob ihr uns dabei unterstützen könnt und wollt! Insgesamt bräuchten wir wahrscheinlich 13 Kuchen/Torten.
