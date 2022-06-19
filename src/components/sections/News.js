@@ -32,6 +32,10 @@ const News = () => (
                 <p>    
                   Folgende Kuchen/Torten sind schon bestätigt:                  
                 <br/>                
+
+                <br/>
+                <br/>
+
                 <table>
 <thead>
   <tr>
@@ -69,7 +73,7 @@ const News = () => (
   <tr>
     <td>Tim</td>
     <td/>
-    <td>Himbeer-Mascarpone-Torte, Kaffeetorte</td>
+    <td>Himbeer-Mascarpone-Torte, Espresso-Torte</td>
   </tr>
 </tbody>
 </table>
