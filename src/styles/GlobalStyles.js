@@ -59,7 +59,7 @@ const GlobalStyles = createGlobalStyle`
       ${props => props.theme.font_size.small};
     }
   }
-
+  
   button {
     border: none;
     background: none;

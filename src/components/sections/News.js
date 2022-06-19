@@ -27,6 +27,56 @@ const News = () => (
           <Grid>
             <div>
             <h2>Neuigkeiten</h2>
+            <div>              
+                <h3>19.06.2022 - Aktuelle Kuchenliste</h3>
+                <p>    
+                  Folgende Kuchen/Torten sind schon bestätigt:                  
+                <br/>                
+                <table>
+<thead>
+  <tr>
+    <th>Bäcker:innen</th>
+    <th>ㅤㅤㅤㅤㅤㅤ</th>
+    <th>Kuchen/Torte(n)</th>
+  </tr>
+</thead>
+<tbody ali >
+  <tr>
+    <td>Lisa V.</td>
+    <td/>
+    <td>Bananenkuchen mit Schokostückchen</td>    
+  </tr>
+  <tr>
+    <td>Tamara</td>
+    <td/>
+    <td>glutenfreier Käse-Mandarinen Kuchen</td>
+  </tr>
+  <tr>
+    <td>Julia</td>
+    <td/>
+    <td>noch nicht bekannt</td>
+  </tr>
+  <tr>
+    <td>Ann-Cathrin</td>
+    <td/>
+    <td>noch nicht bekannt</td>
+  </tr>
+  <tr>
+    <td>Martin</td>
+    <td/>
+    <td>noch nicht bekannt</td>
+  </tr>
+  <tr>
+    <td>Tim</td>
+    <td/>
+    <td>Himbeer-Mascarpone-Torte, Kaffeetorte</td>
+  </tr>
+</tbody>
+</table>
+                </p> 
+                <br/>
+                <br/>
+              </div>            
               <div>              
                 <h3>25.04.2021</h3>
                 <p>                
