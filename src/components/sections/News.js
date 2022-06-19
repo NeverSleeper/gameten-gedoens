@@ -29,6 +29,7 @@ const News = () => (
             <h2>Neuigkeiten</h2>
             <div>              
                 <h3>19.06.2022 - Aktuelle Kuchenliste</h3>
+                <br/>
                 <p>    
                   Folgende Kuchen/Torten sind schon bestätigt:                  
                 <br/>                
