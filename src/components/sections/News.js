@@ -76,6 +76,16 @@ const News = () => (
                       <td/>
                       <td>Himbeer-Mascarpone-Torte, Espresso-Torte</td>
                     </tr>
+                    <tr>
+                      <td>Lana</td>
+                      <td/>
+                      <td>Karamel Cheesecake</td>
+                    </tr>
+                    <tr>
+                      <td>Sarah</td>
+                      <td/>
+                      <td>Mandarinenkuchen</td>
+                    </tr>
                   </tbody>
                 </table>
               </p> 
