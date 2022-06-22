@@ -59,7 +59,7 @@ const News = () => (
                     <tr>
                       <td>Julia</td>
                       <td/>
-                      <td>noch nicht bekannt</td>
+                      <td>veganer Butterkuchen</td>
                     </tr>
                     <tr>
                       <td>Ann-Cathrin</td>
