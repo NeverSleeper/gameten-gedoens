@@ -28,13 +28,18 @@ const News = () => (
             <div>
             <h2>Neuigkeiten</h2>
             <div>              
-                <h3>19.06.2022 - Aktuelle Kuchenliste</h3>
+                <h3>28.06.2022</h3>
                 <br/>
+                <h3>Kleine Bitte an alle Eltern mit Kindern</h3>
+                <p>
+                <br/>                
+                Wir würden gerne in einem separaten Raum (hier ist auch eine der Bars) eine Spielecke für die Kleinen einrichten, wo Sie am Abend bei Bedarf auch schlafen können. Die Bar und die Tür zum Raum sind dann am Abend selbstverständlich geschlossen. Zu diesem Zweck würden wir euch Eltern bitten eine überschaubare Menge an Spielzeugen und Kinderbettchen bei Bedarf mitzubringen.
+                </p>
+                <br/>
+                <h3>Aktuelle Kuchenliste</h3>
                 <p>    
                   Folgende Kuchen/Torten sind schon bestätigt:                  
                 <br/>                
-
-                <br/>
                 <br/>
 
                 <table>
@@ -64,12 +69,12 @@ const News = () => (
                     <tr>
                       <td>Ann-Cathrin</td>
                       <td/>
-                      <td>noch nicht bekannt</td>
+                      <td>Marzipan-Blaubeer Torte</td>
                     </tr>
                     <tr>
                       <td>Martin</td>
                       <td/>
-                      <td>noch nicht bekannt</td>
+                      <td>veganer Schokokuchen</td>
                     </tr>
                     <tr>
                       <td>Tim</td>
@@ -85,6 +90,11 @@ const News = () => (
                       <td>Sarah</td>
                       <td/>
                       <td>Mandarinenkuchen</td>
+                    </tr>
+                    <tr>
+                      <td>Roswitha</td>
+                      <td/>
+                      <td>Nusskuchen</td>
                     </tr>
                   </tbody>
                 </table>

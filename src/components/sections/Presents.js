@@ -29,7 +29,7 @@ const Presents = () => (
               <h2>Geschenke und andere Nettigkeiten</h2>
               <p>
                 Bitte nehmt es uns nicht übel, aber wir haben einen mehr als vollständigen Hausstand. <br /><br />
-                Bitte spendet doch eine für euch angemessene Summe auf dieses <a href="https://paypal.me/pools/c/8qp6zHNrlF" target="_blank">PayPal-Konto</a>,
+                Bitte spendet doch eine für euch angemessene Summe auf dieses <a href="https://www.paypal.com/paypalme/gametengoldkiste" target="_blank">PayPal-Konto</a>,
                 oder drückt uns auf der Feier etwas in die Hand. :)
               </p>
             </div>
