@@ -28,6 +28,28 @@ const About = () => (
             <Art>
               <Img fluid={data.art_kiss.childImageSharp.fluid} />
             </Art>
+            <div align="left">
+            <h3>09.09.2022</h3>
+                <br/>
+                <h3>Lieber Spät als Nie - Fotos!</h3>
+                <p>
+                <br/>                
+                Wir danken allen Teilnehmern von ganzem Herzen für diesen zauberhaften Tag! Wir hoffen Ihr hattet genauso viel Spaß wie wir! 
+                Um halb vier Uhr morgens sind wir auf unsere Couch gefallen und haben den Tag nochmal revue passieren lassen und konnten gar nicht glauben - wie toll alles war!                
+                <br/>
+                <br/>
+                Ein gewaltiges Dankeschön müssen wir hier nochmal an unsere Gametlinge Julia, Martin und Franzi aussprechen. Ohne euch Drei wäre dieser Tag niemals so gut abgelaufen, sei es das Programm, die Gästebetreuung oder das Catering!
+                <br/>
+                <br/>
+                Auch ein großes Dankeschön wollen wir an Daniel ausrichten, welcher uns mit so vielen, tollen Bildern gesegnet hat. Den Link dazu findet Ihr <a href="https://www.picdrop.com/danielhinzgucker/qXq8pnLnUT">Hier!</a> 
+                <br/>
+                <br/>
+                Wir hoffen euch alle in verschiedensten Konstellationen wiederzusehen und wir haben uns schon darauf geeinigt - Wir werden dies in ähnlicher Weise mal wiederholen - Es hat einfach zu viel Spaß gemacht!
+                <br/>
+                <br/>
+                Fühlt euch ganz innig gedrückt - Tim und André
+                </p>
+            </div>
             <div>
               <h2>Es findet statt - am 16.07.2022!</h2>
               <p>

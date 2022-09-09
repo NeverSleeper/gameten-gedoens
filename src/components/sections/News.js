@@ -27,6 +27,24 @@ const News = () => (
           <Grid>
             <div>
             <h2>Neuigkeiten</h2>
+            <div>
+            <h3>04.09.2022</h3>
+                <br/>
+                <h3>Lieber Spät als Nie - Fotos!</h3>
+                <p>
+                <br/>                
+                Wir danken allen Teilnehmern von ganzem Herzen für diesen zauberhaften Tag! Wir hoffen Ihr hattet genauso viel Spaß wie wir! 
+                Um halb vier Uhr morgens sind wir auf unsere Couch gefallen und haben den Tag nochmal revue passieren lassen und konnten gar nicht glauben - wie toll alles war!                
+                <br/>
+                Ein gewaltiges Dankeschön müssen wir hier nochmal an unsere Gametlinge Julia, Martin und Franzi aussprechen. Ohne euch drei wäre dieser Tag niemals so gut abgelaufen, sei es das Programm, die Gästebetreuung oder das Catering!
+                <br/>
+                Auch ein großes Dankeschön wollen wir an Daniel ausrichten, welcher uns mit so vielen, tollen Bildern gesegnet hat. Den Link dazu finde <a href="url https://www.picdrop.com/danielhinzgucker/qXq8pnLnUT">Hier!</a> 
+                <br/>
+                Wir hoffen euch alle in verschiedensten Konstellationen wiederzusehen, und wir haben uns schon darauf geeinigt, wir werden dies in ähnlicher Weise mal wiederholen. - Es hat einfach zu viel Spaß gemacht.
+                <br/>
+                Fühlt euch ganz innig gedrückt - Tim und André
+                </p>
+            </div>
             <div>              
                 <h3>28.06.2022</h3>
                 <br/>
